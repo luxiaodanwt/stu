@@ -6,7 +6,7 @@
 #include <string.h>
 #define N sizeof(struct st)
 #define M 100
-#define FORMAT "%s    %s   %d   %d   %d\n",snum,name,math,english,physics
+#define FORMAT "%s    %s   %d   %d   %d\n",snum,name,math,english,physics"
 struct st{
 			char snum[11];    //学号
 			char name[11];    //姓名
